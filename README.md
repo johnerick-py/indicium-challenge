@@ -5,7 +5,7 @@ Você poderá ver mais detalhes do desafio em -> https://github.com/techindicium
 Desafio e aceito e cumprido por -> John Erick https://github.com/johnerick-py
 
 ## Como executar esta pipeline:
-Você precisará das seguintes dependendicas e softwares:
+Você precisará das seguintes dependencias e softwares:
  - Postgres >= 12
  - Python >= 3.7
  
