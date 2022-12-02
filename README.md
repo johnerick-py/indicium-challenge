@@ -12,6 +12,9 @@ Você precisará das seguintes dependendicas e softwares:
  
   Primeiro passo dê um git clone neste projeto dentro da pasta documents.
    -> https://github.com/johnerick-py/indicium-challenge
+   
+   !!!!!!!! DENTRO DE DATA CRIE DUAS PASTAS UMA CHAMADA postgres E OUTRA CHAMADA csv !!!!!!!!!!!!!!!!!!!!!!
+   (O GITHUB NÃO ESTÁ DANDO PUSH EM PASTAS VAZIAS!!!)
  
   Começando pela criação do seu banco de dados:
    
@@ -140,6 +143,8 @@ Ainda sobre a segunda etapa, se você selecionar a opção "other date" e já ti
 Finalizando:
 
 Por favor verifique se a pasta csv dentro de data foi importada quando clonar o repositório, o github não está dando aceitando o push da própria por estar vazia.
+
+Os scripts são indempondentes como pedido.
 
 O código foi executado em dois ambientes diferentes, Ubuntu e Linux Mint.
 
